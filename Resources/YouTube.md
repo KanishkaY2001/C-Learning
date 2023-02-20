@@ -1,4 +1,4 @@
-Youtube Resources:
+# Youtube Resources:
 
 [https://www.youtube.com/watch?v=_zQqN5OYCCM&t=390s]
 - How to REALLY learn C++
@@ -11,4 +11,3 @@ Youtube Resources:
 
 [https://www.youtube.com/watch?v=i_wDa2AS_8w]
 - 31 nooby C++ habits you need to ditch
-
